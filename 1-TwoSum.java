@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TwoSum {
+public class 1-TwoSum {
     public int[] twoSum(int[] nums, int target) {
         // Nested loops to check every pair of elements
         for (int i = 0; i < nums.length; i++) {
