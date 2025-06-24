@@ -1,6 +1,3 @@
-Here is a professional and clean **`README.md`** file for your problem **"33. Search in Rotated Sorted Array"**, based on the LeetCode-style description you provided:
-
----
 
 ## 📘 33. Search in Rotated Sorted Array
 
@@ -161,5 +158,3 @@ Target found at index: 4
 * Divide and Conquer
 
 ---
-
-Let me know if you want to generate a `README.md` for a GitHub repo with markdown badges, license, or build status.

@@ -137,4 +137,3 @@ Indices: [0, 1]
 | Logic   | Nested loop to check all pairs                |
 | Output  | Indices of the two elements or error msg      |
 
-Would you like me to explain the optimized version using a **HashMap** for better performance?

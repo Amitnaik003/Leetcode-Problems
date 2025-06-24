@@ -1,4 +1,4 @@
-Here’s a clean and well-structured `README.md` file for your project that finds the **minimum element in a rotated sorted array** using **binary search (O(log n))** with **user input support** in Java:
+**binary search (O(log n))** with **user input support** in Java:
 
 ---
 
@@ -138,13 +138,3 @@ public class MinimumSortedArray {
 - Interview Questions
 
 ---
-
-## 📄 License
-
-This project is open for learning and interview practice purposes. No license restrictions.
-
-```
-
----
-
-Let me know if you'd like to include a flowchart, GitHub badges, or convert this into a project structure with `src`, `docs`, etc.
