@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         Solution sol = new Solution();
 
         int[] nums1 = {1, 2, 3, 4, 5, 6, 7};
