@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) { 
         Solution sol = new Solution();
-
+ 
         int[] nums1 = {1, 2, 3, 4, 5, 6, 7};
         sol.rotate(nums1, 3); 
         System.out.println("Output 1: " + Arrays.toString(nums1)); // [5,6,7,1,2,3,4]
