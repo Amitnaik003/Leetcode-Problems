@@ -1,5 +1,5 @@
 import java.util.Scanner;
-  
+   
 public class minimimsotedarray {
     public static int findmin(int[] nums) {
         int left = 0;
