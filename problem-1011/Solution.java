@@ -10,7 +10,7 @@ public class Solution {
         int n = scanner.nextInt();
         int[] weights = new int[n];
         System.out.println("Enter the weights of packages:");
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) { 
             weights[i] = scanner.nextInt();
         }
 
