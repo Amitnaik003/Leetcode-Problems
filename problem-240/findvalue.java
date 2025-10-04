@@ -9,7 +9,7 @@ public class findvalue {
         int col = n - 1;
 
         while (row < m && col >= 0) {
-            int value = matrix[row][col];
+            int value = matrix[row][col]; 
 
             if (value == target) {
                 return true;
