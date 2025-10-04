@@ -6,7 +6,7 @@ public class findvalue {
         int n = matrix[0].length;
 
         int row = 0;
-        int col = n - 1;
+        int col = n - 1; 
 
         while (row < m && col >= 0) {
             int value = matrix[row][col]; 
